@@ -1,1 +1,1 @@
-# TitanX - (Bot of the Future)
+# TitanXS - (Bot of the Future)
